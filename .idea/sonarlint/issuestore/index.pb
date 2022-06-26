@@ -1,0 +1,27 @@
+
+D
+Contracts/ILogger.cs,4/0/402e507dea5eb4d63999c3b6736a55c20fde1fff
+H
+LoggingService/Logger.cs,d/a/da21a813f4bb7b6219312f214c525a6ae740c48c
+F
+CompanyApi/nlog.config,8/2/82e1e16f40fe5bd8faec7bc24efdacaecb0af92b
+Z
+*CompanyApi/Extensions/ServiceExtensions.cs,6/a/6acc9c3f4462a66942063e1767149889e949b434
+K
+Entities/Models/Employee.cs,8/f/8f8863ab6eaa8c9ce872488c57cc51ef9adec3fb
+J
+Entities/Models/Company.cs,b/f/bf00961bc1bb65c8234ee9806dd6a572668c9b7f
+e
+5CompanyApi/ContextFactory/RepositoryContextFactory.cs,0/1/01a415555dcae0c06c0391ba049c59d5c9f150ee
+K
+CompanyApi/appsettings.json,6/a/6a94d67949e33c397ba2a28e523609cc996cf6be
+O
+Repository/RepositoryContext.cs,e/8/e818fa0e7c3d6c20ba590362ac63157ffcbddf82
+a
+1Repository/Configuration/EmployeeConfiguration.cs,1/e/1e6ab2f1ed1774a25cf8208466b905382866698b
+`
+0Repository/Configuration/CompanyConfiguration.cs,5/2/523090f9a58fd370d7f42f7df0195b8e96542601
+Y
+)CompanyApi/Extensions/ExceptionHandler.cs,f/d/fd19f796d472da15055b443c988134af630d1994
+E
+CompanyApi/Program.cs,0/a/0a31c20f9daa83dc19d169878b5b9505b0fe0ede
